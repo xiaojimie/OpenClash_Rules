@@ -6,3 +6,4 @@
 
 # 奶昔订阅
 DOMAIN,sub.nexconvert.com
+SRC-IP-CIDR,127.0.0.1/32
