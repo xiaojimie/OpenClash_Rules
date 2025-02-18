@@ -4,5 +4,7 @@
 # 部分域名可能和中国大陆域名列表存在重叠
 # 规则内容较少，不会影响性能，请放心使用
 
-# 奶昔订阅
+# sub
 DOMAIN,sub.nexconvert.com
+DOMAIN,hongxing.one
+DOMAIN,fuc6h.no-mad-world.club
